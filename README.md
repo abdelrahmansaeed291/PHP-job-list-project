@@ -103,4 +103,4 @@ The project follows MVC architecture using the Laravel framework. For pagination
 
 Feel free to fork this repository and submit pull requests for any improvements.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
