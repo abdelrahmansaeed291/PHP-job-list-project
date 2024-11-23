@@ -8,7 +8,7 @@ Before setting up the project, make sure you have the following installed on you
 
 - PHP (preferably the latest stable version)
 - Composer (dependency management)
-- MySQL or PostgreSQL (for database)
+- MySQL
 - Laravel (latest version)
 - Git (for version control)
 
@@ -59,13 +59,9 @@ The database schema is managed by Laravel migrations. Run the following command 
 php artisan migrate
 ```
 
-If you want to populate the database with some initial data (for testing purposes), you can run the database seeder:
 
-```bash
-php artisan db:seed
-```
 
-This will populate the job listings with sample data.
+
 
 Once the setup is complete, you can run the development server:
 
